@@ -43,3 +43,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignorar archivos generados
+bfg-1.15.0.jar
+windows/flutter/ephemeral/flutter_windows.dll.pdb
+icons/
