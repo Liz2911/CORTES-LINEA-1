@@ -1,0 +1,2 @@
+C:/Users/miguel angel/Desktop/Nueva carpeta/cortes/android/app/.cxx/Debug/4595i1h1/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/miguel angel/Desktop/Nueva carpeta/cortes/android/app/.cxx/Debug/4595i1h1/x86_64/CMakeFiles/rebuild_cache.dir

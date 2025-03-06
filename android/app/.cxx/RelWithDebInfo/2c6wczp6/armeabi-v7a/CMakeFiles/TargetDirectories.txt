@@ -1,0 +1,2 @@
+C:/Users/miguel angel/Desktop/Nueva carpeta/cortes/android/app/.cxx/RelWithDebInfo/2c6wczp6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/miguel angel/Desktop/Nueva carpeta/cortes/android/app/.cxx/RelWithDebInfo/2c6wczp6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
